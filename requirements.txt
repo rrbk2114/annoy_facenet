@@ -1,4 +1,4 @@
-absl-py==0.7.1
+absl-py>=1.0.0
 annoy==1.15.2
 astor==0.7.1
 cycler==0.10.0
