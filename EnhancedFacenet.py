@@ -33,3 +33,7 @@ class EnhancedFacenet:
         face_rgb = cv2.cvtColor(face, cv2.COLOR_BGR2RGB)
         return face, self.encoder.generate_embedding(face_rgb)
 
+
+if __name__ == '__main__':
+    pass
+
