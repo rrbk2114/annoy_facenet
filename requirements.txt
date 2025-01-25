@@ -1,3 +1,4 @@
+absl-py>=1.4.0
 annoy>=1.15.2
 astor>=0.8.1
 cycler>=0.11.0
